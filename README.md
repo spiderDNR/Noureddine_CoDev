@@ -10,3 +10,4 @@
 
 from scanner.detector import scan_pods
 print(scan_pods())  # [PodAlert(name='nginx-pod', status='Running')]
+![CI](https://github.com/spiderDNR/Noureddine_CoDev/actions/workflows/python.yml/badge.svg)
